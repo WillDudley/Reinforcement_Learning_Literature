@@ -1,7 +1,6 @@
 **Highlighting of active RL literature repos. Also highlights other related pedagogical resources.**
 
 # Reinforcement Learning Literature
-A "meta-repo" of maintained collections of RL papers
 
 ## [Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl)
 ![Offline RL](https://img.shields.io/github/last-commit/hanjuku-kaso/awesome-offline-RL)
