@@ -11,6 +11,10 @@
 ## [Multi-Agent RL](https://github.com/LantaoYu/MARL-Papers)
 ![Multi-Agent RL](https://img.shields.io/github/last-commit/LantaoYu/MARL-Papers)
 
+## Inverse RL
+[Yiren's Algorithm Repo (Tensorflow)](https://github.com/yrlu/irl-imitation)
+[Matthew's Algorithm Repo (Theano)](https://github.com/MatthewJA/Inverse-Reinforcement-Learning)
+
 # Other Resources
 ## Reinforcement Learning Communities
 ### [RL Discord](https://discord.gg/jaHQEnjqnh)
