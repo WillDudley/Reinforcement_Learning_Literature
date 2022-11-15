@@ -13,6 +13,7 @@
 
 ## Inverse RL
 [Yiren's Algorithm Repo (Tensorflow)](https://github.com/yrlu/irl-imitation)
+
 [Matthew's Algorithm Repo (Theano)](https://github.com/MatthewJA/Inverse-Reinforcement-Learning)
 
 # Other Resources
